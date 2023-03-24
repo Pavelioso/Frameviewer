@@ -5,7 +5,7 @@ There is no proprietary solution from nVidia, so this is my take on it.
 
 ## Getting Started:
 
-This is the web app (Frameviewer)[https://frameviewer-d74b1.web.app/#/].
+This is the web app [Frameviewer](https://frameviewer-d74b1.web.app/#/).
 It's limited with features, but it gets the job done. 
 
 ## Usability:
